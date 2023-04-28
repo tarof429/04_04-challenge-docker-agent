@@ -1,0 +1,2 @@
+server: https://192.168.1.30:9345
+token: {'changed': True, 'stdout': 'K10da620ddfb47564679aee9468c4aec062db14ea7ea56f3b4d5985125809ffa60f::server:cdadf5657faf6a6d95584b3bf673caa9', 'stderr': '', 'rc': 0, 'cmd': "cat /var/lib/rancher/rke2/server/node-token | sed 's/ //g'\n", 'start': '2022-07-28 05:02:24.041466', 'end': '2022-07-28 05:02:24.043984', 'delta': '0:00:00.002518', 'msg': '', 'stdout_lines': ['K10da620ddfb47564679aee9468c4aec062db14ea7ea56f3b4d5985125809ffa60f::server:cdadf5657faf6a6d95584b3bf673caa9'], 'stderr_lines': [], 'failed': False}
